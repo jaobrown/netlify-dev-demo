@@ -1,0 +1,7 @@
+[build]
+    publish="public"
+[[redirects]]
+  from = "/page-2/"
+  to = "https://kodastudio.co"
+  status = 200
+  force=true
